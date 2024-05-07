@@ -50,6 +50,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 NAME: MAHESH RAJ PUROHIT J
+
 REGISTER NO: 212222240058
 ```
 import numpy as np
